@@ -1,10 +1,12 @@
 **Prerequisites**
+
 Before you begin, ensure you have the following installed:
 
 Git
 Node.js (which comes with npm)
 
 **Getting Started**
+
 Follow these steps to get a local copy up and running:
 
 1. Clone the Repository
